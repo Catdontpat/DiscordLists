@@ -10,6 +10,7 @@ dis.gd/badnorthtw
 dis.gd/badnorthyt
 dis.gd/baronvongamesyt-badnorth
 dis.gd/bday3
+dis.gd/bhmcommunities
 dis.gd/billing
 dis.gd/bioshock
 dis.gd/bitethis
@@ -19,6 +20,7 @@ dis.gd/boost
 dis.gd/bot-verification
 dis.gd/bts-minionmasters
 dis.gd/bughunting
+dis.gd/bugreport
 dis.gd/bugs
 dis.gd/bug_tool
 dis.gd/buildyourkingdom
@@ -86,6 +88,8 @@ dis.gd/instability
 dis.gd/install
 dis.gd/installfail
 dis.gd/iosgofast
+dis.gd/iwd
+dis.gd/iwd-events
 dis.gd/jake
 dis.gd/jauz
 dis.gd/jelly-atsundown
@@ -160,10 +164,13 @@ dis.gd/serverid
 dis.gd/servervideo
 dis.gd/sinnertw
 dis.gd/siphano
+dis.gd/slashcommands
 dis.gd/skyyart
 dis.gd/snowblog18
 dis.gd/snowsgiving
+dis.gd/soundpackfaq
 dis.gd/sp4zieyt-lastyear
+dis.gd/stagesfaq
 dis.gd/sp4zie-warframe
 dis.gd/starwarshq-darkforces
 dis.gd/starwarshq-jediknight
